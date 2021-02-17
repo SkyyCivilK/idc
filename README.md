@@ -1,31 +1,3 @@
 # idc
 
-blah# idc
-
-blah# idc
-
-blah# idc
-
-blah# idc
-
-blah# idc
-
-blah# idc
-
-blah# idc
-
-blah# idc
-
-blah# idc
-
-blah# idc
-
-blah# idc
-
-blah# idc
-
-blah# idc
-
-blah# idc
-
-blah
+check
